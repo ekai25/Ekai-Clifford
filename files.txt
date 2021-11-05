@@ -1,3 +1,5 @@
-gallery
-sections
-word
+Gallery
+ICT basics
+Coding
+Folders
+Initials.txt
